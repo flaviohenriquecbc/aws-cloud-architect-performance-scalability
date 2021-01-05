@@ -24,8 +24,6 @@ Plan and provision a cost-effective AWS infrastructure for a new social media ap
 - Application Servers Load Balanced and Autoscaled
 - A Master DB in AZ1 with a read replica in AZ2
 
-[Available here](schematics/Udacity_Diagram_1.pdf)
-
 ### Part 2
 
 Plan a SERVERLESS architecture schematic for a new application development project. The project requires the following AWS infrastructure and services:
@@ -39,28 +37,19 @@ Plan a SERVERLESS architecture schematic for a new application development proje
 - DynamoDB
 - S3 Storage
 
-[Available here](schematics/Udacity_Diagram_2.pdf)
-
-
 ## 2. Infrastructure Costs
 
-### Scenario 1
+### Scenario 1: Initial Cost Estimate
 
 - Target a monthly estimate between $8,000-$10,000.
 
-[Available here](costs/Initial_Cost_Estimate.csv)
-
-### Scenario 2
+### Scenario 2: Reduced Cost Estimate
 
 - Maximum buged of $6,500
 
-[Available here](costs/Reduced_Cost_Estimate.csv)
-
-### Scenario 3
+### Scenario 3: Increased Cost Estimate
 
 - Budget of $20,000
-
-[Available here](costs/Increased_Cost Estimate.csv)
 
 ## 3. Configure Permissions
 
@@ -96,15 +85,28 @@ c. Notification setup to get an email alert when the alarm is triggered.
 ### Part 1
 
 `main.tf` file write the code to provision:
+
 a. AWS as the cloud provider
+
 b. Use an existing VPC ID
+
 c. Use an existing public subnet
+
 d. 4 AWS t2.micro EC2 instances named Udacity T2
+
 e. 2 m4.large EC2 instances named Udacity M4
 
 ### Part 2
 
+AWS Lambda Function using Terraform:
 
+a. `lambda.py` file
+
+b. `main.tf` file
+
+c. `outputs.tf` file
+
+d. `variables.tf` file
 
 
 
