@@ -24,6 +24,8 @@ Plan and provision a cost-effective AWS infrastructure for a new social media ap
 - Application Servers Load Balanced and Autoscaled
 - A Master DB in AZ1 with a read replica in AZ2
 
+[Available here](01%20-%20schematics/Udacity_Diagram_1.pdf)
+
 ### Part 2
 
 Plan a SERVERLESS architecture schematic for a new application development project. The project requires the following AWS infrastructure and services:
@@ -36,6 +38,8 @@ Plan a SERVERLESS architecture schematic for a new application development proje
 - API Gateway
 - DynamoDB
 - S3 Storage
+
+[Available here](01%20-%20schematics/Udacity_Diagram_2.pdf)
 
 ## 2. Infrastructure Costs
 
