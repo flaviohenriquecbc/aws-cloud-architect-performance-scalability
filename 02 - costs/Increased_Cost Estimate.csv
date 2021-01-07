@@ -1,13 +1,13 @@
 Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
-Initial_Cost_Estimation,US East (N. Virginia),Web Servers,Amazon EC2,0,1003.78,12045.36,USD,"Operating system (Linux), Quantity (4), Pricing strategy (On-Demand Instances  ), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (t3.2xlarge)"
-Initial_Cost_Estimation,US East (N. Virginia),,Amazon EC2,0,1024.8,12297.60,USD,"Operating system (Linux), Quantity (4), Pricing strategy (On-Demand Instances  ), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (c5.2xlarge)"
-Initial_Cost_Estimation,US East (N. Virginia),NAT Gateway,Amazon Virtual Private Cloud (VPC),0,361.35,4336.20,USD,Number of NAT Gateways (1)
-Initial_Cost_Estimation,US East (N. Virginia),,Amazon Virtual Private Cloud (VPC),0,1356.71,16280.52,USD,"DT Inbound: Internet (10 TB per month), DT Outbound: Internet (15 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (1356.71)"
-Initial_Cost_Estimation,US East (N. Virginia),,Classic Load Balancer,0,1204.5,14454.00,USD,"Number of Classic Load Balancers (2), Processed bytes per CLB (100 GB per hour)"
-Initial_Cost_Estimation,US East (N. Virginia),,Amazon RDS for PostgreSQL,0,2808.3999999999996,33700.80,USD,"Quantity (2), Pricing strategy (On-Demand Instances  ), Storage volume (General Purpose SSD (gp2)), Storage amount (3 TB per month), Instance type (db.m5.large), Additional backup storage (9 TB)"
-Initial_Cost_Estimation,US East (N. Virginia),,S3 Standard,0,1237.84,14854.08,USD,S3 Standard storage (20 TB per month)
-Initial_Cost_Estimation,US East (N. Virginia),,Data Transfer,0,0,0.00,USD,"DT Inbound: Internet (1 TB per month), DT Outbound: Amazon CloudFront (100 TB per month)"
-Initial_Cost_Estimation,US East (N. Virginia),,Amazon CloudWatch,0,300,3600.00,USD,
+Increased_Cost_Estimation,US East (N. Virginia),Web Servers,Amazon EC2,0,1003.78,12045.36,USD,"Operating system (Linux), Quantity (4), Pricing strategy (On-Demand Instances  ), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (t3.2xlarge)"
+Increased_Cost_Estimation,US East (N. Virginia),,Amazon EC2,0,1024.8,12297.60,USD,"Operating system (Linux), Quantity (4), Pricing strategy (On-Demand Instances  ), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (c5.2xlarge)"
+Increased_Cost_Estimation,US East (N. Virginia),NAT Gateway,Amazon Virtual Private Cloud (VPC),0,361.35,4336.20,USD,Number of NAT Gateways (1)
+Increased_Cost_Estimation,US East (N. Virginia),,Amazon Virtual Private Cloud (VPC),0,1356.71,16280.52,USD,"DT Inbound: Internet (10 TB per month), DT Outbound: Internet (15 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (1356.71)"
+Increased_Cost_Estimation,US East (N. Virginia),,Classic Load Balancer,0,1204.5,14454.00,USD,"Number of Classic Load Balancers (2), Processed bytes per CLB (100 GB per hour)"
+Increased_Cost_Estimation,US East (N. Virginia),,Amazon RDS for PostgreSQL,0,2808.3999999999996,33700.80,USD,"Quantity (2), Pricing strategy (On-Demand Instances  ), Storage volume (General Purpose SSD (gp2)), Storage amount (3 TB per month), Instance type (db.m5.large), Additional backup storage (9 TB)"
+Increased_Cost_Estimation,US East (N. Virginia),,S3 Standard,0,1237.84,14854.08,USD,S3 Standard storage (20 TB per month)
+Increased_Cost_Estimation,US East (N. Virginia),,Data Transfer,0,0,0.00,USD,"DT Inbound: Internet (1 TB per month), DT Outbound: Amazon CloudFront (100 TB per month)"
+Increased_Cost_Estimation,US East (N. Virginia),,Amazon CloudWatch,0,300,3600.00,USD,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
