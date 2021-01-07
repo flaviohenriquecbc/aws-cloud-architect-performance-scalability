@@ -47,7 +47,7 @@ Plan a SERVERLESS architecture schematic for a new application development proje
 
 - Target a monthly estimate between $8,000-$10,000.
 
-[Available here](02%20-%20costs/Inicial_Cost_Estimate.csv)
+[Available here](02%20-%20costs/Initial_Cost_Estimate.csv)
 
 ### Scenario 2: Reduced Cost Estimate
 
